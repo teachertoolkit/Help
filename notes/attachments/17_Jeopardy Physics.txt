@@ -1,0 +1,69 @@
+[Jeopardy]
+Title=A2 Physics
+JeopardyCategory1=Physics Units
+JeopardyCategory1Q1=What is the unit for FLUX?
+JeopardyCategory1A1=Webber (Wb)
+JeopardyCategory1Q2=What is the unit for FLUX DENSITY?
+JeopardyCategory1A2=Tesla (T)
+JeopardyCategory1Q3=What is the unit for electrical field strength?
+JeopardyCategory1A3=N/C or V/m
+JeopardyCategory1Q4=What is the unit for momentum?
+JeopardyCategory1A4=kg.m/s
+JeopardyCategory1Q5=What equation links 'g' measured in Newtons per kilogram to 'g' in metres per second squared?
+JeopardyCategory1A5=F=ma
+JeopardyCategory2=Electric Fields
+JeopardyCategory2Q1=What equations links electric field to electrostatic force?
+JeopardyCategory2A1=Field = Force per unit charge (E=F/Q)
+JeopardyCategory2Q2=In which direction do electrical field lines flow?
+JeopardyCategory2A2=From positive to negative
+JeopardyCategory2Q3=What equation links electrical potential to electrostatic force?
+JeopardyCategory2A3=Potential =_#_Potential Energy/Charge_#_= Fr/Q
+JeopardyCategory2Q4=What phrase should you use to describe electric field strength?
+JeopardyCategory2A4=Negative potential gradient
+JeopardyCategory2Q5=Where do we get a uniform electric field?
+JeopardyCategory2A5=Between two parallel plates (but not at edges)
+JeopardyCategory3=Magnetic Fields
+JeopardyCategory3Q1=What equation gives the force produced by a charge 'e' moving in a magnetic field?
+JeopardyCategory3A1=F=Bev
+JeopardyCategory3Q2=What equation gives the force produced by a current-carrying wire in a magnetic field?
+JeopardyCategory3A2=F=BIL
+JeopardyCategory3Q3=What is important to remember when considering forces caused by B-fields?
+JeopardyCategory3A3=The directions must be perpendicular.
+JeopardyCategory3Q4=State Faraday's and Lenz's law
+JeopardyCategory3A4=F = MINUS Rate of change of Flux
+JeopardyCategory3Q5=Describe how to use the Left Hand Rule
+JeopardyCategory3A5=First=Field_#_Second=Current_#_Thumb=Motion
+JeopardyCategory4=Gravitational Fields
+JeopardyCategory4Q1=State Newton's law for gravitation as an equation
+JeopardyCategory4A1=F = -GMm/r²
+JeopardyCategory4Q2=What makes gravitational fields different from other fields?
+JeopardyCategory4A2=Only attract
+JeopardyCategory4Q3=What is the definition of gravitational field strength?
+JeopardyCategory4A3=Force per unit mass
+JeopardyCategory4Q4=What is important when calculating Gravitational Potential Energy?
+JeopardyCategory4A4=We take ZERO as being at INFINITY
+JeopardyCategory4Q5=Top tips - how is it easier to think of gravitational potential and gravitational field strength?
+JeopardyCategory4A5=As ENERGY PER UNIT MASS and as FORCE PER UNIT MASS
+JeopardyCategory5=Orbits and Satellites
+JeopardyCategory5Q1=What is the equation for escape velocity?
+JeopardyCategory5A1=v = Root 2GM/r
+JeopardyCategory5Q2=What is the equation for orbital velocity?
+JeopardyCategory5A2=v = Root GM/r
+JeopardyCategory5Q3=Give two main features of geo-synchronous satellites
+JeopardyCategory5A3=Above equator AND 24 hour period
+JeopardyCategory5Q4=State Kepler's third law
+JeopardyCategory5A4=T² is directly proportional to r³
+JeopardyCategory5Q5=How is orbital velocity mathematically related to distance away?
+JeopardyCategory5A5=v² is proportional to 1/r
+JeopardyCategory6=Momentum Conservation
+JeopardyCategory6Q1=Is momentum a scalar or a vector quantity?
+JeopardyCategory6A1=Vector
+JeopardyCategory6Q2=What is the SYMBOL for momentum?
+JeopardyCategory6A2=p
+JeopardyCategory6Q3=When is momentum not conserved?
+JeopardyCategory6A3=When an external force is involved
+JeopardyCategory6Q4=Explain why it is difficult to jump from a light boat onto a river bank.
+JeopardyCategory6A4=As you jump forward, it pushes the boat back-wards.
+JeopardyCategory6Q5=What is an elastic collision?
+JeopardyCategory6A5=When KINETIC ENERGY is conserved
+

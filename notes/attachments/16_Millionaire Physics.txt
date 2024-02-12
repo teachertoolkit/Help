@@ -1,0 +1,91 @@
+[Millionaire]
+MilQ1=What is the unit of energy?
+MilQ1Answer1=Joule
+MilQ1Answer2=Watt
+MilQ1Answer3=Metre
+MilQ1Answer4=Second
+MilQ1Correct=1
+MilQ2=How do you calculate speed?
+MilQ2Answer1=Distance x Time
+MilQ2Answer2=Time x Distance
+MilQ2Answer3=Distance / Time
+MilQ2Answer4=Time / Distance
+MilQ2Correct=3
+MilQ3=What is Newton's second law?
+MilQ3Answer1=For every action there is an equal and opposite reaction
+MilQ3Answer2=You can't push without being pushed
+MilQ3Answer3=F=ma
+MilQ3Answer4=With no resultant force, objects don't change
+MilQ3Correct=3
+MilQ4=How do you calculate the flow of current?
+MilQ4Answer1=I=Qt
+MilQ4Answer2=I=Q/t
+MilQ4Answer3=I=t/Q
+MilQ4Answer4=I=QuIt
+MilQ4Correct=2
+MilQ5=Which of these is not part of an atom?
+MilQ5Answer1=Proton
+MilQ5Answer2=Electron
+MilQ5Answer3=Neutron
+MilQ5Answer4=Charge
+MilQ5Correct=4
+MilQ6=What is Ohm's law?
+MilQ6Answer1=Forces stretch objects by equal amounts
+MilQ6Answer2=F=kx
+MilQ6Answer3=V=IR
+MilQ6Answer4=All objects have resistance
+MilQ6Correct=3
+MilQ7=Which one is not a feature of friction?
+MilQ7Answer1=It acts in the opposite direction to movement
+MilQ7Answer2=I causes things to wear-away
+MilQ7Answer3=If allows you to slide
+MilQ7Answer4=It makes things warmer
+MilQ7Correct=3
+MilQ8=Which is the greatest subject of all time?
+MilQ8Answer1=Biology
+MilQ8Answer2=Chemistry
+MilQ8Answer3=Physics
+MilQ8Answer4=Mathematics
+MilQ8Correct=3
+MilQ9=Which of these is not a type of energy?
+MilQ9Answer1=Kinetic
+MilQ9Answer2=Potential
+MilQ9Answer3=Force
+MilQ9Answer4=Nuclear
+MilQ9Correct=3
+MilQ10=Which of these is not a type of potential energy?
+MilQ10Answer1=Gravitational
+MilQ10Answer2=Chemical
+MilQ10Answer3=Electrical
+MilQ10Answer4=Elastic
+MilQ10Correct=3
+MilQ11=How many of Newton's laws of motion do you need to know for GCSE physics?
+MilQ11Answer1=0
+MilQ11Answer2=1
+MilQ11Answer3=2
+MilQ11Answer4=3
+MilQ11Correct=4
+MilQ12=What do we call a satellite that stays in the same place above the Earth?
+MilQ12Answer1=Geosynchronous
+MilQ12Answer2=Stationary
+MilQ12Answer3=Polar
+MilQ12Answer4=The Moon
+MilQ12Correct=1
+MilQ13=Which way does a conventional current flow?
+MilQ13Answer1=Negative to positive
+MilQ13Answer2=Positive to negative
+MilQ13Answer3=Clockwise
+MilQ13Answer4=Anticlockwise
+MilQ13Correct=2
+MilQ14=Which of these has the smallest mass?
+MilQ14Answer1=Proton
+MilQ14Answer2=Neutron
+MilQ14Answer3=Electron
+MilQ14Answer4=Atom
+MilQ14Correct=3
+MilQ15=Which of these would never generate electricity?
+MilQ15Answer1=Moving a wire in a magnetic field
+MilQ15Answer2=Moving a magnet past a wire
+MilQ15Answer3=Turning the current on/off in a nearby wire
+MilQ15Answer4=Moving the magnet and wire together
+MilQ15Correct=4

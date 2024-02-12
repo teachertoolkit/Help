@@ -1,0 +1,68 @@
+[Jeopardy]
+Title=GCSE Maths - grab a calculator
+JeopardyCategory1=Angles
+JeopardyCategory1Q1=If two surfaces are perpendicular to each other, what is the angle between them?
+JeopardyCategory1A1=90 degrees
+JeopardyCategory1Q2=What is the bearing of the direction: North-West?
+JeopardyCategory1A2=315 degrees
+JeopardyCategory1Q3=A kite has a top angle of 90 degrees and the side angles are both 110 degrees each, what is the final angle?
+JeopardyCategory1A3=70 degrees
+JeopardyCategory1Q4=What is the external angle of a regular pentagon?
+JeopardyCategory1A4=360 divided by 5_#_= 72 degrees
+JeopardyCategory1Q5=What is the internal angle of a regular octagon?
+JeopardyCategory1A5=6 triangles_#_= 6 × 180 = 1080_#_Then divide this by 8 to give:_#_135 degrees
+JeopardyCategory2=Algebra
+JeopardyCategory2Q1=Find x if:_#_2x - 4 = 26
+JeopardyCategory2A1=x = 15
+JeopardyCategory2Q2=Find x if:_#_3(x + 2) = 21
+JeopardyCategory2A2=x = 5
+JeopardyCategory2Q3=Simplify:_#_2x(x - 4) + 3x(x + 5)
+JeopardyCategory2A3=2x² - 8x + 3x² + 15x_#_= 5x² + 7x
+JeopardyCategory2Q4=If x =4, what is:_#_2x³ - 3x² + x - 4?
+JeopardyCategory2A4=80
+JeopardyCategory2Q5=Use trial and error to find:_#_x to 1 decimal place if:_#_3x³ - x = 29
+JeopardyCategory2A5=2 gives 22 and 3 gives 78_#_2.1 gives 25.7 and 2.2 gives 29.7 _#_2.15 gives 27.665125_#_ So, x = 2.2
+JeopardyCategory3=Shapes
+JeopardyCategory3Q1=How many parallel sides does a trapezium have?
+JeopardyCategory3A1=2
+JeopardyCategory3Q2=How many lines of symmetry does a square have?
+JeopardyCategory3A2=4
+JeopardyCategory3Q3=When is a parallelogram called a rhombus?
+JeopardyCategory3A3=When the sides are all the same length.
+JeopardyCategory3Q4=What is the order of rotational symmetry for a rectangle?
+JeopardyCategory3A4=2
+JeopardyCategory3Q5=A kite has 2 diagonals, one is 10cm high, and the other is 8cm wide._#_What is the area of this kite?
+JeopardyCategory3A5=40 cm²
+JeopardyCategory4=Circles
+JeopardyCategory4Q1=Name the line that separates a circle into two different sized segments.
+JeopardyCategory4A1=Chord.
+JeopardyCategory4Q2=What name is given to part of the circumference?
+JeopardyCategory4A2=Arc
+JeopardyCategory4Q3=If a circle has a radius of 4cm, what is its circumference (to 1 d.p)?
+JeopardyCategory4A3=8 × pi_#_= 25.13_#_= 25.1cm to 1 d.p.
+JeopardyCategory4Q4=If a circle has a diameter of 20cm, what is its area_#_(to 3 d.p.)?
+JeopardyCategory4A4=pi × 10 squared_#_=314.1593_#_=314.159 cm squared_#_(to 3d.p.)
+JeopardyCategory4Q5=A circle has a circumference of 52cm, what is the area of this circle_#_(to the nearest integer)?
+JeopardyCategory4A5=Diameter = 52÷pi = 16.55cm_#_Area = pi × 8.276²_#_=215.7cm²_#_=216cm²_#_(to nearest integer).
+JeopardyCategory5=Word Problems
+JeopardyCategory5Q1=Peter is twice as old as Joe, but Joe is 8._#_How old is Peter?
+JeopardyCategory5A1=16
+JeopardyCategory5Q2=A man spends half of the money in his wallet. When he gets home he's still got £25 left. How much did he have to start with?
+JeopardyCategory5A2=£50
+JeopardyCategory5Q3=Alex is twice as old as Jessica. Alex is 11 on her next birthday. How old is Jessica?
+JeopardyCategory5A3=5
+JeopardyCategory5Q4=A saleswoman sells TVs for 3 times what she paid for them. She makes £400 profit on each TV. How much does she buy them for?
+JeopardyCategory5A4=£200_#_(She's selling them for £600)
+JeopardyCategory5Q5=A table is 3 times as long as it is wide._#_It has a perimeter of 24m._#_How wide is it?
+JeopardyCategory5A5=3m
+JeopardyCategory6=Numbers
+JeopardyCategory6Q1=What is 10 percent of 650?
+JeopardyCategory6A1=65
+JeopardyCategory6Q2=What is a quarter of 220?
+JeopardyCategory6A2=55
+JeopardyCategory6Q3=What is 3 to the power of 4?
+JeopardyCategory6A3=81
+JeopardyCategory6Q4=What is 3 eighths plus 2 tenths?_#_(Simplified as much as possible)
+JeopardyCategory6A4=23 fortieths
+JeopardyCategory6Q5=Which is bigger:_#_7 twentieths or 5 twelfths?
+JeopardyCategory6A5=5 twelfths_#_(It is 50/120, but the other is only 42/120)

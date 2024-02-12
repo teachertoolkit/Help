@@ -1,0 +1,68 @@
+[Jeopardy]
+Title=GCSE Maths - Grab a Calculator
+JeopardyCategory1=Angles
+JeopardyCategory1Q1=What is the name given to an angle which is more than 90 degrees, but less than 180 degrees?
+JeopardyCategory1A1=Obtuse
+JeopardyCategory1Q2=Name a time when the hands on the clock will be perpendicular to each other.
+JeopardyCategory1A2=Correct answers such as:_#_3 o'clock or 9 o'clock
+JeopardyCategory1Q3=What do the internal angles of all quadrilaterals add up to?
+JeopardyCategory1A3=360 degrees
+JeopardyCategory1Q4=What do the internal angles of a heptagon add up to?
+JeopardyCategory1A4=5 triangles =_#_900 degrees
+JeopardyCategory1Q5=What is the external angle of a regular octagon?
+JeopardyCategory1A5=360÷8 =_#_45 degrees
+JeopardyCategory2=2D Shapes
+JeopardyCategory2Q1=What is the name given to a 2D shape with 5 sides?
+JeopardyCategory2A1=Pentagon
+JeopardyCategory2Q2=Name five different quadrilaterals.
+JeopardyCategory2A2=Any 5 from:_#_Square, rectangle, parallelogram, rhombus, trapezium, kite.
+JeopardyCategory2Q3=Name a shape with no parallel sides, whose diagonals cross at 90 degrees.
+JeopardyCategory2A3=Kite.
+JeopardyCategory2Q4=Name TWO DIFFERENT shapes, that have 2 pairs of parallel sides, all the same length.
+JeopardyCategory2A4=Square and Rhombus.
+JeopardyCategory2Q5=What word describes shapes that are the same shape and size (even if they are reflected or moved)?
+JeopardyCategory2A5=Congruent
+JeopardyCategory3=Algebra
+JeopardyCategory3Q1=Find x if,_#_5x + 2 = 12
+JeopardyCategory3A1=x = 2
+JeopardyCategory3Q2=Simplify:_#_x+5-2x-1+4-x
+JeopardyCategory3A2=8 - 2x
+JeopardyCategory3Q3=Expand this:_#_2x(x - 4)
+JeopardyCategory3A3=2x² - 8x
+JeopardyCategory3Q4=Expand and simplify:_#_3(2x - 1) - 2(2x + 3)
+JeopardyCategory3A4=6x-3-4x-6 =_#_2x - 9
+JeopardyCategory3Q5=Factorise this expression:_#_2ab² + 4ab
+JeopardyCategory3A5=2ab (b + 2)
+JeopardyCategory4=Circles
+JeopardyCategory4Q1=What is the circumference of a circle with diameter 2cm to 2 d.p.?
+JeopardyCategory4A1=2 × pi =_#_6.28cm
+JeopardyCategory4Q2=What is the area of a circle with radius 4cm to 1 d.p.?
+JeopardyCategory4A2=4² × pi =_#_50.3 cm²
+JeopardyCategory4Q3=A circle has a radius of 4 cm, what is the circumference of this circle to 4 d.p.?
+JeopardyCategory4A3=2×4 × pi =_#_25.1327cm
+JeopardyCategory4Q4=A circle has a circumference of 25cm, what is the diameter to 3 d.p.?
+JeopardyCategory4A4=25÷pi =_#_7.958 cm
+JeopardyCategory4Q5=A circle has a circumference of 50cm, what is the area of this circle to 1 d.p.?
+JeopardyCategory4A5=D = 50÷pi, then_#_A=pi × r²_#__#_A = 198.9 cm²
+JeopardyCategory5=Perimeter and Area
+JeopardyCategory5Q1=What is the equation for calculating the area of a rectangle?
+JeopardyCategory5A1=Base × Height
+JeopardyCategory5Q2=What is the equation for calculating the area of a triangle?
+JeopardyCategory5A2=Half base × height
+JeopardyCategory5Q3=A parallelogram has two sides that are 6cm, separated by a height of 4cm._#_What is its area?
+JeopardyCategory5A3=6×4 =_#_24 cm².
+JeopardyCategory5Q4=What is the perimeter of a regular hexagon, with sides 2cm long?
+JeopardyCategory5A4=6×2cm =_#_12cm
+JeopardyCategory5Q5=Calculate the area of a trapezium whose parallel sides are 2cm and 6cm and are separated by 5cm.
+JeopardyCategory5A5=(2+6)÷2 × 5_#_= 4×5_#_= 20cm²
+JeopardyCategory6=Bearings
+JeopardyCategory6Q1=Give three important facts when measuring bearings.
+JeopardyCategory6A1=North_#_Clockwise_#_3 figures
+JeopardyCategory6Q2=Give the 3 figure bearing of a direction East
+JeopardyCategory6A2=090°
+JeopardyCategory6Q3=Give the 3 figure bearing of a direction West
+JeopardyCategory6A3=270°
+JeopardyCategory6Q4=If you are facing North, and spin around 4 and half times, then walk._#_With what bearing will you move?
+JeopardyCategory6A4=180°
+JeopardyCategory6Q5=A boy is at a bearing of 030° from a girl._#_What is the bearing of the girl from the boy?
+JeopardyCategory6A5=210°

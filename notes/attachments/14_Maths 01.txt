@@ -1,0 +1,128 @@
+Q=What do the angles in a triangle add up to?
+A=180°
+Q=Which triangle has 3 equal sides?
+A=Equilateral triangle
+Q=What is the value of a_#_if a-8=22?
+A=30
+Q=What is the value of a_#_if 6a=48?
+A=8
+Q=What is a half multiplied by a half?
+A=A quarter
+Q=What is the value of a if_#_3a+3=15?
+A=a=4
+Q=Expand these brackets_#_2(a-5)
+A=2a - 10
+Q=Expand these brackets_#_4(3a+7)
+A=12a + 28
+Q=If 4 pens cost 80p, how much would 3 cost?
+A=60p
+Q=If 6 lollies cost 90p, how much would 4 cost?
+A=60p
+Q=Factorise_#_4x² + 6x
+A=2x(2x + 3)
+Q=If a=3 and b=5, what is_#_5a + 3b
+A=30
+Q=If a square has sides of 6cm, what is its perimeter?
+A=6cm+6cm+6cm+6cm_#_=24cm
+Q=What do the angles in a quadrilateral add up to?
+A=360°
+Q=What is a quarter plus two thirds?
+A=Eleven twelfths
+Q=What are the factors of 6?
+A=1,2,3,6
+Q=What is -5-6?
+A=-11
+Q=What is an obtuse angle?
+A=One with an angle between 90° and 180°
+Q=Where do you measure bearings from?
+A=North
+Q=What are the factors of 10?
+A=1,2,5,10
+Q=What is -3+5?
+A=2
+Q=What is an acute angle?
+A=Less than 90°
+Q=What is -7 multiplied by -6?
+A=42
+Q=Calculate_#_¼ + ½ 
+A=¾
+Q=What is a reflex angle?
+A=Bigger than 180°
+Q=What is -4×3?
+A=-12
+Q=What is c+c+c?
+A=3c
+Q=What is c×c×c?
+A=c³
+Q=What is 4d × 3?
+A=12d
+Q=What are the factors of 15?
+A=1,3,5,15
+Q=Expand this:_#_2x(4x - 6)
+A=8x² - 12x
+Q=What does perimeter measure?
+A=The distance around a shape
+Q=What is 16y ÷ 2?
+A=8y
+Q=What is 20% as a fraction?
+A=One fifth
+Q=What does parallel mean?
+A=They are the same distance apart and will never meet
+Q=Factorise_#_5x³ - 10x + 15x²
+A=5x(x² - 2 + 3x)
+Q=What is special about an isosceles triangle?
+A=2 sides and 2 angles are the same
+Q=What is bigger -4, -6 or -2?
+A=-2
+Q=What are the first 5 multiples of 4?
+A=4,8,12,16,20
+Q=What is 3 cubed?
+A=27
+Q=What is 7²?
+A=49
+Q=What is a quarter as a decimal?
+A=0.25
+Q=If Jane's age is x and her brother is 3 years older, what would be an expression for his age?
+A=x+3
+Q=What is_#_8 + 3 × 2?
+A=14
+Q=What is special about an equilateral triangle?
+A=Equal angles and equal sides
+Q=What size is a right angle?
+A=90°
+Q=What do the angles on a straight line add up to?
+A=180°
+Q=What is d+d+d+d?
+A=4d
+Q=What is 3p × p?
+A=3p²
+Q=5t=20_#_What does t=?
+A=4
+Q=Solve x + 3 = 9
+A=x=6
+Q=What is 4 cubed?
+A=64
+Q=If x=3 what is 2x+1
+A=7
+Q=Solve 3y=18
+A=y=6
+Q=What is 2+3×5?
+A=17
+Q=If p=-3 what is 5p?
+A=-15
+Q=What does tessellate mean?
+A=Fit together without overlapping so that there are no gaps
+Q=What does the word integer mean?
+A=A whole number
+Q=Solve 2x + x = 18
+A=x=6
+Q=Solve t/5=6
+A=t=30
+Q=Put these in order of smallest to largest:_#_50%, 0.6, ¼, 0.05
+A=0.05, ¼, 50%, 0.6
+Q=Simplify this:_#_2x - 6x² - 4 + 3x² + x - 8
+A=3x - 3x² - 12
+Q=Now factorise this:_#_3x - 3x² - 12
+A=3(x - x² - 4)
+Q=What is 3 × t × w × x²
+A=3twx²
